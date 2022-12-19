@@ -1,3 +1,7 @@
+![chinche común](https://user-images.githubusercontent.com/120819110/208540476-f739361d-658d-439d-9b6e-4c7d65d4bcd0.jpg)
+
+
+
 <h1 align="center"> Hi! I'm Larisa ✨ </h1>
 -  
 -  🙋🏻‍♀️ Hi, I’m Larisa Picco, from Argentina.
