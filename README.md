@@ -3,12 +3,12 @@
 
 <h1 align="center"> Hi! I'm Larisa ✨ </h1>
 -  
-- <p>🙋🏻‍♀️ Hi, I’m Larisa Picco, from Argentina.
--  📸 I'm a amateur photographer, and I'm currently a begginer in Web Development. 
--  💻 I can handle HTML and CSS.
--  あ My hobbies are taking wildlife shots, drawing and I spend most of my time learning languages
--  ⚙️ I would love to collaborate on your next project, designing and creating your website in the most efficient way as possible
--  📬 Contact me by email or my Social media</p>
+- 🙋🏻‍♀️ Hi, I’m Larisa Picco, from Argentina. <br>
+-  📸 I'm a amateur photographer, and I'm currently a begginer in Web Development. <br>
+-  💻 I can handle HTML and CSS. <br>
+-  あ My hobbies are taking wildlife shots, drawing and I spend most of my time learning languages <br>
+-  ⚙️ I would love to collaborate on your next project, designing and creating your website in the most efficient way as possible <br>
+-  📬 Contact me by email or my Social media</p> 
 
 <!---
 LarisaPicco/LarisaPicco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
