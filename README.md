@@ -1,6 +1,5 @@
 ![chinche común](https://user-images.githubusercontent.com/120819110/208546059-0daf90fb-d6b9-4e04-a49f-6c4bee8efda7.jpg)
 
-
 <h1 align="center"> Hi! I'm Larisa ✨ </h1>
 
 -  🙋🏻‍♀️ Hi, I’m Larisa Picco, from Argentina. <br>
@@ -12,9 +11,10 @@
 
 
 <H3> Contact me! </h3>
-            <p><a href="https://www.instagram.com/laritaulianova/" target="_blank"></a></p>
-            <p><a href="https://www.facebook.com/neptune.murasaki.9/" target="_blank"></a></p>
-            <p><a href="https://www.youtube.com/@seleneneptuno2578/featured" target="_blank"></a></p>
+            
+- [Facebook]   (https://www.facebook.com/neptune.murasaki.9/)            
+- [Instagram]  (https://www.instagram.com/laritaulianova/)
+- [Linkedin]   (https://www.linkedin.com/in/larisa-p-66518522a)
 
 <!---
 LarisaPicco/LarisaPicco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
