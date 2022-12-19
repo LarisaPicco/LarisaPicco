@@ -1,9 +1,9 @@
-![chinche común](https://user-images.githubusercontent.com/120819110/208540969-22eb28e9-9dec-4658-abf5-b51a09d78134.jpg)
+<img align="center"> ![chinche común](https://user-images.githubusercontent.com/120819110/208540969-22eb28e9-9dec-4658-abf5-b51a09d78134.jpg)</img>
 
 
 <h1 align="center"> Hi! I'm Larisa ✨ </h1>
--  
-- 🙋🏻‍♀️ Hi, I’m Larisa Picco, from Argentina. <br>
+
+-  🙋🏻‍♀️ Hi, I’m Larisa Picco, from Argentina. <br>
 -  📸 I'm a amateur photographer, and I'm currently a begginer in Web Development. <br>
 -  💻 I can handle HTML and CSS. <br>
 -  あ My hobbies are taking wildlife shots, drawing and I spend most of my time learning languages <br>
