@@ -12,7 +12,7 @@
 
 <H3> Contact me! </h3>
   
--  <a href="https://www.linkedin.com/in/larisa-p-66518522a" target="_blank"><img src="https://icons8.com/icon/mpH52RRtTK3v/linkedin" alt="LinkedIn" width="65" height="65"></a>
+-  <a href="https://www.linkedin.com/in/larisa-p-66518522a" target="_blank"><img src="[https://icons8.com/icon/mpH52RRtTK3v/linkedin](https://icons8.com/icon/60ZV_wYC0BM2/linkedin)" alt="LinkedIn" width="65" height="65"></a>
 - [Instagram](https://www.instagram.com/laritaulianova/)
 - [Facebook](https://www.facebook.com/neptune.murasaki.9/) <br>
 
