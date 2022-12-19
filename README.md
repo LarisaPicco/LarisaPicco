@@ -12,9 +12,13 @@
 
 <H3> Contact me! </h3>
   
-- [LinkedIn](https://www.linkedin.com/in/larisa-p-66518522a target="_blank")
+- [LinkedIn](https://www.linkedin.com/in/larisa-p-66518522a)
 - [Instagram](https://www.instagram.com/laritaulianova/)
-- [Facebook](https://www.facebook.com/neptune.murasaki.9/)  
+- [Facebook](https://www.facebook.com/neptune.murasaki.9/) <br>
+
+
+<H3> My gallery </h3>
+- [Flickr](https://www.flickr.com/photos/neptunegalaxy)
 
 <!---
 LarisaPicco/LarisaPicco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
