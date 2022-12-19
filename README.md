@@ -1,8 +1,6 @@
 <h1 align="center"> Hi! I'm Larisa ✨ </h1>
 -  
--   
--    
--      🙋🏻‍♀️ Hi, I’m Larisa Picco, from Argentina.
+-  🙋🏻‍♀️ Hi, I’m Larisa Picco, from Argentina.
 -  📸 I'm a amateur photographer, and I'm currently a begginer in Web Development. 
 -  💻 I can handle HTML and CSS.
 -  あ My hobbies are taking wildlife shots, drawing and I spend most of my time learning languages
