@@ -1,4 +1,4 @@
-<img align="center"> ![chinche común](https://user-images.githubusercontent.com/120819110/208540969-22eb28e9-9dec-4658-abf5-b51a09d78134.jpg)</img>
+![chinche común](https://user-images.githubusercontent.com/120819110/208546059-0daf90fb-d6b9-4e04-a49f-6c4bee8efda7.jpg)
 
 
 <h1 align="center"> Hi! I'm Larisa ✨ </h1>
