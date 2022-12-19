@@ -12,7 +12,7 @@
 
 <H3> Contact me! </h3>
   
-- [LinkedIn](https://www.linkedin.com/in/larisa-p-66518522a)
+- [LinkedIn](https://www.linkedin.com/in/larisa-p-66518522a target="_blank")
 - [Instagram](https://www.instagram.com/laritaulianova/)
 - [Facebook](https://www.facebook.com/neptune.murasaki.9/)  
 
