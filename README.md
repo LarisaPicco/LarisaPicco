@@ -26,12 +26,12 @@
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-html-5-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="html5" width="60" height="60"></img></a>
 <br>
 
-<h3>Image editor</h3> <br>
+<h3>Image editor</h3>
 
 <a href="https://www.adobe.com/la/products/photoshop/free-trial-download.html" target="_blank"><img src="https://img.icons8.com/plasticine/100/null/adobe-photoshop.png" alt="bootstrap" width="65" height="65"></img></a>
 <a href="https://lightroom.adobe.com/" target="_blank"><img src="https://img.icons8.com/plasticine/100/null/adobe-lightroom.png" alt="bootstrap" width="65" height="65"></img></a>
 
-<br>
+
 <H3> My gallery </h3>
 
 <a href="https://www.flickr.com/photos/neptunegalaxy" target="_blank"><img src="https://img.icons8.com/clouds/100/null/flickr.png" width="60" height="60"></img></a>
