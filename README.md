@@ -21,9 +21,9 @@
 
 <b>FrontEnd Development</b>
 
-<p align="center"><a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/null/external-bootstrap-a-free-and-open-source-css-framework-logo-filled-tal-revivo.png" alt="bootstrap" width="55" height="55"></img></a>
+<a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/null/external-bootstrap-a-free-and-open-source-css-framework-logo-filled-tal-revivo.png" alt="bootstrap" width="55" height="55"></img></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/dusk/64/null/css3.png" alt="css3" width="55" height="55"></img></a> 
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-html-5-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="html5" width="60" height="60"></img></a></p>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-html-5-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="html5" width="60" height="60"></img></a>
 
 <br>
 <H3> My gallery </h3>
