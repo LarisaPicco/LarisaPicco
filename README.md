@@ -17,7 +17,7 @@
 <a href="https://www.facebook.com/neptune.murasaki.9/" target="_blank"><img src="https://img.icons8.com/plasticine/100/null/facebook-new.png" width="60" height="60"></img></a>
 
 <br>
-<h3> Languages and Tools </h3> <br>
+<h3> Tools </h3> <br>
 
 <b>FrontEnd Development</b>
 
