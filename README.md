@@ -41,7 +41,7 @@
 
 <p>Languages</p>
 
-<img width="64" height="64" src="https://img.icons8.com/dusk/64/great-britain.png" alt="great-britain"/> <img width="64" height="64" src="https://img.icons8.com/dusk/64/italy.png" alt="italy"/> <img width="64" height="64" src="https://img.icons8.com/dusk/64/japan.png" alt="japan"/>
+<img width="55" height="55" src="https://img.icons8.com/dusk/64/great-britain.png" alt="great-britain"/> <img width="64" height="64" src="https://img.icons8.com/dusk/64/italy.png" alt="italy"/> <img width="64" height="64" src="https://img.icons8.com/dusk/64/japan.png" alt="japan"/>
 <!---
 LarisaPicco/LarisaPicco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
