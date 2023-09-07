@@ -4,7 +4,7 @@
 
 -  🙋🏻‍♀️ Hi, I’m Larisa Picco, from Argentina. <br>
 -  📸 I'm a amateur photographer, and I'm currently a begginer in Web Development. <br>
--  💻 I can handle HTML and CSS. <br>
+-  💻 I can handle HTML, CSS and JS. <br>
 -  あ My hobbies are taking wildlife shots, drawing and I spend most of my time learning languages <br>
 -  ⚙️ I would love to collaborate on your next project, designing and creating your website in the most efficient way as possible <br>
 -  📬 Contact me by email or my Social media</p> <br>
