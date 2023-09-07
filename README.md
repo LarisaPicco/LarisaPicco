@@ -33,16 +33,15 @@
 <a href="https://www.adobe.com/la/products/photoshop/free-trial-download.html" target="_blank"><img src="https://img.icons8.com/plasticine/100/null/adobe-photoshop.png" alt="bootstrap" width="65" height="65"></img></a>
 <a href="https://lightroom.adobe.com/" target="_blank"><img src="https://img.icons8.com/plasticine/100/null/adobe-lightroom.png" alt="bootstrap" width="65" height="65"></img></a>
 
-<p>Languages</p>
-
-<img width="64" height="64" src="https://img.icons8.com/dusk/64/great-britain.png" alt="great-britain"/>
-<img width="64" height="64" src="https://img.icons8.com/dusk/64/italy.png" alt="italy"/>
-<img width="64" height="64" src="https://img.icons8.com/dusk/64/japan.png" alt="japan"/>
 
 <br>
 <H3> My gallery </h3>
 
 <a href="https://www.flickr.com/photos/neptunegalaxy" target="_blank"><img src="https://img.icons8.com/clouds/100/null/flickr.png" width="60" height="60"></img></a>
+
+<p>Languages</p>
+
+<img width="64" height="64" src="https://img.icons8.com/dusk/64/great-britain.png" alt="great-britain"/> <img width="64" height="64" src="https://img.icons8.com/dusk/64/italy.png" alt="italy"/> <img width="64" height="64" src="https://img.icons8.com/dusk/64/japan.png" alt="japan"/>
 <!---
 LarisaPicco/LarisaPicco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
