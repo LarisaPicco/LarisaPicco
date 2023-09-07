@@ -24,7 +24,7 @@
 <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/null/external-bootstrap-a-free-and-open-source-css-framework-logo-filled-tal-revivo.png" alt="bootstrap" width="55" height="55"></img></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/dusk/64/null/css3.png" alt="css3" width="55" height="55"></img></a> 
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-html-5-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="html5" width="60" height="60"></img></a>
-<a href="https://www.w3schools.com/js/" target="_blank"><img src="https://icons8.com/icon/gYCTehfTlYk5/javascript-logo" alt="javascript" width="55"></img></a>
+<a href="https://www.w3schools.com/js/" target="_blank"><img width="55" height="55" src="https://img.icons8.com/dusk/64/javascript-logo.png" alt="javascript-logo"/></a>
 <br>
 
 <p>Image editor</p>
