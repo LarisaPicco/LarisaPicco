@@ -1,3 +1,4 @@
+
 ![chinche común](https://user-images.githubusercontent.com/120819110/208546059-0daf90fb-d6b9-4e04-a49f-6c4bee8efda7.jpg)
 
 <h1 align="center"> Hi! I'm Larisa ✨ </h1>
@@ -31,6 +32,12 @@
 
 <a href="https://www.adobe.com/la/products/photoshop/free-trial-download.html" target="_blank"><img src="https://img.icons8.com/plasticine/100/null/adobe-photoshop.png" alt="bootstrap" width="65" height="65"></img></a>
 <a href="https://lightroom.adobe.com/" target="_blank"><img src="https://img.icons8.com/plasticine/100/null/adobe-lightroom.png" alt="bootstrap" width="65" height="65"></img></a>
+
+<p>Languages</p>
+
+<img width="64" height="64" src="https://img.icons8.com/dusk/64/great-britain.png" alt="great-britain"/>
+<img width="64" height="64" src="https://img.icons8.com/dusk/64/italy.png" alt="italy"/>
+<img width="64" height="64" src="https://img.icons8.com/dusk/64/japan.png" alt="japan"/>
 
 <br>
 <H3> My gallery </h3>
