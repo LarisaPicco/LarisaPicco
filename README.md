@@ -5,7 +5,7 @@
 
 -  🙋🏻‍♀️ Hi, I’m Larisa Picco, from Argentina. <br>
 -  📸 I'm a amateur photographer, illustrator and I'm currently a Web Developer. <br>
--  💻 I can handle HTML, CSS, JS and PL/SQL. <br>
+-  💻 I can handle HTML, CSS, JS and PL/SQL. I use them on my current job at the Minister of education from Argentina<br>
 -  あ My hobbies are taking wildlife shots, drawing and I spend most of my time learning languages <br>
 -  ⚙️ I would love to collaborate on your next project, designing and creating your website in the most efficient way as possible <br>
 -  📬 Contact me by email or my Social media</p> <br>
